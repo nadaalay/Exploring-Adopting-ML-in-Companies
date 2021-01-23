@@ -11,8 +11,8 @@ The project is organized as the following: it starts with taking a look at the d
 
 ## File Descriptions 
 
-	- One notebook file `exploring-adopting-ml-in-companies.ipynb` for analysis.
-	- `kaggle_survey_2020_responses.csv` Kaggle survey 2020 responses. Responses to multiple choice questions. 
+- One notebook file `exploring-adopting-ml-in-companies.ipynb` for analysis.
+- `kaggle_survey_2020_responses.csv` Kaggle survey 2020 responses. Responses to multiple choice questions. 
 The dataset is avilable in Kaggle website: [2020 Kaggle Machine Learning & Data Science Survey](https://www.kaggle.com/c/kaggle-survey-2020/data)
 
 
